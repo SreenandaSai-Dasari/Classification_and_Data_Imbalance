@@ -7,7 +7,7 @@ This project uses a simple Thyroid dataset which is famous for data imbalance. I
 
 * **Data Cleaning:**               Handling Null values, Removing Duplicates, Checking for Data Imbalance, Performing Sanity Checks, Feature Selection & Feature Engineering.
 
-*  **Exploratory Data Analysis:**  Consists of Univariate, Bivariate and Multivariate Analysis. I have used line, bar, pair, histogram plots and heat map in this step.
+*  **Exploratory Data Analysis:**  Consists of Univariate, Bivariate and Multivariate Analysis. I have used line, bar, pair, violin, swarm, histogram plots and heat map in this step.
 
 *   **Data Modeling:**             In this step, I have performed operations such as creating Dummy variables, Scaling and train - test split to get the modeling stack ready.
 
