@@ -1,8 +1,7 @@
 # Classification_and_Data_Imbalance:
 
-This project uses a real time Housing project data consisting of 80 Independent variables and 1 target variable (house_price). The main aim of this project is to prepare a roadmap for end-to-end ***Linear Regression*** model that includes steps such as ***Data Cleaning***, ***Exploratory Data Analysis***, ***Data Modeling***, ***Linear Regression Assumptions***, ***Building a Linear Regression model*** and ***Hyperparameter Tuning***, ***Model Evaluation***
+This project uses a simple Thyroid dataset which is famous for data imbalance. I will first perform the usual steps of Logisitic regression, then followed with other classification algorithms. Then, I will try out different sampling methods in combination with the classification algorithms in order to find out how these combinations deal with data imbalance and which one deals with it the best. This project includes steps such as ***Data Cleaning***, ***Exploratory Data Analysis***, ***Data Modeling***, ***Classification algorithms***, ***Sampling techniques*** and ***Combination of classification models and sampling techniques***, ***Model Evaluation***
 
-This project also covers the regularization methods such as ***Ridge and Lasso Regression***. I will check how these regularization functions impact a normal Linear Regression Model by comparing the ***r2-score***, ***adjusted r2-score*** and ***coefficients*** of all three models.
 
 ## Further, I am listing down steps in each phase here:
 
