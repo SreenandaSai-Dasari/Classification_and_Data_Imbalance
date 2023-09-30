@@ -11,9 +11,6 @@ This project uses a simple Thyroid dataset which is famous for data imbalance. I
 
 *   **Data Modeling:**             In this step, I have performed operations such as creating Dummy variables, Scaling and train - test split to get the modeling stack ready.
 
-After performing all the above steps, the final modeling stack has 145 columns, so I have done quick correlation check against target variable and reduced the stack to 75 variables. Then, I have created a simple linear regression model with out any tuning.
-
-
 *  **Linear Regression Assumptions:**   In this step, I did few checks such as VIF, checking for independece of target variable values, Homoscedasticity and the Distribution of error terms
 
 *  **Hyperparameter Tuning:**           I have used Recursive Feature Elimination method along with Grid Search technique to determine the optimal number of features to be used in the model.
