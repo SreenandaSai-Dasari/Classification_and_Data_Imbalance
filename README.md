@@ -11,7 +11,7 @@ This project uses a simple Thyroid dataset which is famous for data imbalance. I
 
 *   **Data Modeling:**             In this step, I have performed operations such as creating Dummy variables, Scaling and train - test split to get the modeling stack ready.
 
-*  **Linear Regression Assumptions:**   In this step, I did few checks such as VIF which is used to detect multi collinearity among the independent variables.
+*  **Classification Algorithms**   In this step, I did few checks such as VIF which is used to detect multi collinearity among the independent variables.
 
 *  **Hyperparameter Tuning:**           I have used Recursive Feature Elimination method along with Grid Search technique to determine the optimal number of features to be used in the model.
 
