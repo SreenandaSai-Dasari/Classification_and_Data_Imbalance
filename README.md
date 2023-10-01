@@ -13,7 +13,7 @@ This project uses a simple Thyroid dataset which is famous for data imbalance. I
 
 *  **Classification Algorithms**   In this step, I did few checks such as VIF which is used to detect multi collinearity among the independent variables.
 
-*  **Hyperparameter Tuning:**           I have used Recursive Feature Elimination method along with Grid Search technique to determine the optimal number of features to be used in the model.
+*  **Sampling Techniques:**           I have used Recursive Feature Elimination method along with Grid Search technique to determine the optimal number of features to be used in the model.
 
 Then, I have created a Ridge and Lasso regression models using the same number of variables determined by RFE method and tuned the hyperparameters for them.
 
